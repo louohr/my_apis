@@ -1,4 +1,5 @@
-[
+{
+  "quotes": [
   {
     "content": "A book is a gift you can open again and again.",
     "author": "Garrison Keillor"
@@ -44,3 +45,4 @@
     "author": "Joan Didion"
   }
 ]
+}
